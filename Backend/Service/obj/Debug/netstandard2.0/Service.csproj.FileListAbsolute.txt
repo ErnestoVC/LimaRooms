@@ -1,0 +1,14 @@
+C:\LimaRooms\Backend\Service\bin\Debug\netstandard2.0\Service.deps.json
+C:\LimaRooms\Backend\Service\bin\Debug\netstandard2.0\Service.dll
+C:\LimaRooms\Backend\Service\bin\Debug\netstandard2.0\Service.pdb
+C:\LimaRooms\Backend\Service\bin\Debug\netstandard2.0\Entity.dll
+C:\LimaRooms\Backend\Service\bin\Debug\netstandard2.0\Repository.dll
+C:\LimaRooms\Backend\Service\bin\Debug\netstandard2.0\Repository.pdb
+C:\LimaRooms\Backend\Service\bin\Debug\netstandard2.0\Entity.pdb
+C:\LimaRooms\Backend\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+C:\LimaRooms\Backend\Service\obj\Debug\netstandard2.0\Service.csproj.CoreCompileInputs.cache
+C:\LimaRooms\Backend\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+C:\LimaRooms\Backend\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+C:\LimaRooms\Backend\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete
+C:\LimaRooms\Backend\Service\obj\Debug\netstandard2.0\Service.dll
+C:\LimaRooms\Backend\Service\obj\Debug\netstandard2.0\Service.pdb
