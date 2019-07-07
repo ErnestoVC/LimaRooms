@@ -5,7 +5,7 @@ using System.Linq;
 using Entity;
 using Repository.dbcontext;
 
-namespace Repository
+namespace Repository.Implementacion
 {
     public class ClienteRepository : IClienteRepository
     {
